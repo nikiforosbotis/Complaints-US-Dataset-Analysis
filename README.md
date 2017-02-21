@@ -9,5 +9,5 @@ The analysis of the particular dataset included the following steps:
 2. The contents of the dataset were inserted into the DW using both the import wizard and SQL statements for achieving that.
 3. A cube was created and deployed on the MS Visual Studio "above" the existing DW.
 4. The data mining tasks were performed using the tables of the DW.
-5. Tableau was connected with the cube (Step 3) and in that the OLAP analysis took place.
+5. Tableau was connected with the cube (Step 3) and it was used as the tool in which the OLAP analysis took place.
 6. Two Map/Reduce jobs were performed on particular data of the dataset.
